@@ -11,10 +11,12 @@ body {
   background: pink;
 }
 nav {
-  background: red;
-  padding: 20px;
-  width: 250px;
-} 
+  display: flex;
+  position: fixed;
+  width: 300px;
+  justify-content: space-around;
+  left: 20px;
+}
 form {
   position: fixed;
   left: 50%;
