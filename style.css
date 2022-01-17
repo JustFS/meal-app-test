@@ -11,9 +11,9 @@ body {
   background: pink;
 }
 nav {
-  background: red;
+  background: blue;
   padding: 20px;
-  width: 250px;
+  width: 800px;
 } 
 form {
   position: fixed;
