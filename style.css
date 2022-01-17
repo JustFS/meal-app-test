@@ -84,3 +84,8 @@ iframe {
   left: 50%;
   transform: translateX(-50%);
 }
+#github { 
+
+  width: 400px;
+  height: 400px;
+}
