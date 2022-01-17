@@ -1,0 +1,1 @@
+git pull : récupérer la dernière version du travail (si message "échap" + ":q" + "entrée")
