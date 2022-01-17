@@ -14,7 +14,7 @@ nav {
   background: red;
   padding: 20px;
   width: 250px;
-} 
+}
 form {
   position: fixed;
   left: 50%;
@@ -59,7 +59,8 @@ input:focus {
 }
 h2 {
   margin: 6px auto;
-  color: #16d9e7;
+  color: #e78c16;
+  font-size: 3rem;
 }
 p {
   color: #36ca79;
