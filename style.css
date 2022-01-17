@@ -10,6 +10,11 @@ body {
   min-height: 100vh;
   background: pink;
 }
+nav {
+  background: red;
+  padding: 20px;
+  width: 250px;
+} 
 form {
   position: fixed;
   left: 50%;
